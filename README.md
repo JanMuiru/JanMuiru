@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Janet Muiru
+- 👋 Hi, I’m Janet Muiru
 - 👀 I’m interested in Blockchain Development
 - 🌱 I’m currently learning JavaScript
-- 
 - 📫 How to reach me: janetnmuiru@gmail.com
 
 <!---
